@@ -10,16 +10,16 @@ In this paper, we systematically show different cases to answer the question "Ca
 ## Project Orgenization:
 We organize the cases following systems, demonstrated as fowllowing: 
 ```
-├── GPT-4V_Eval \\
-│ ├── System1 \\
-│ │ ├── case_1 \\
-│ │ │ └── 1.png \\
-│ │ │ └── 2.png \\
-│ │ │ ... \\
-│ │ └── case_2 \\
-| | ... \\
-│ └── System2 \\
-| ... \\
+├── GPT-4V_Eval 
+│ ├── System1 
+│ │ ├── case_1 
+│ │ │ └── 1.png 
+│ │ │ └── 2.png 
+│ │ │ ... 
+│ │ └── case_2 
+| | ... 
+│ └── System2 
+| ... 
 ```
 
 ## Acknowledgement
