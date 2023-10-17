@@ -7,7 +7,7 @@ In this paper, we systematically show different cases to answer the question "Ca
 
 <img src="https://github.com/chaoyi-wu/GPT-4V_Medical_Evaluation/blob/main/teaser.png"/>
 
-## Project Orgenization:
+## Project Organization:
 We organize the cases following systems, demonstrated as fowllowing: 
 ```
 ├── GPT-4V_Eval 
